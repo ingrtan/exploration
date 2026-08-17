@@ -5,7 +5,7 @@ import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
 public class Pile{
-    private List<Card> cards;
+    protected List<Card> cards;
     
     public Pile() {
     }
